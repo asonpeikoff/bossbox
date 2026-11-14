@@ -23,7 +23,7 @@ if [ "$HCI" = "" ] || [ "$RM_ADDR" = "" ]
 then
         echo -e "**************************************************"
         echo -e "* BossBox: The Bluetooth Early Warning System    *"
-        echo -e "* by Jason D. Miller (hack-r)                    *"
+        echo -e "* by Ason Peikoff (asonpeikoff)                  *"
         echo -e "* www.hack-r.com                                 *"
         echo -e "* Based on BlueRanger by Mr. JP Dunning (.ronin) *"
         echo -e "* (c) 2017 Miller Intelligence, LLC.             *"
@@ -55,7 +55,7 @@ else
                 clear
 
                 echo -e "\n      (((B(o(s(s(B)o)x)))\n"
-                echo -e "By Jason D. Miller \nwww.hack-r.com\n"
+                echo -e "By Ason Peikoff \nwww.hack-r.com\n"
                 echo -e "Locating: $RM_NAME ($RM_ADDR)"
                 echo -e "Ping Count: $PING_COUNT\n"
 
